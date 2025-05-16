@@ -20,7 +20,7 @@ Hosted and maintained by [@captaingreek](https://github.com/captaingreek).
 Include the modified script on your site:
 
 ```html
-<script src="https://yourdomain.com/toolbox/acctoolbar.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/captaingreek/accessibility-toolbar@v1.0.0/acctoolbar/acctoolbar.min.js"></script>
 <script>
   window.onload = function() {
     const siteLangRaw = document.documentElement.lang || navigator.language || 'en';
